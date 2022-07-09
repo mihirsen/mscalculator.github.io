@@ -12,6 +12,7 @@
     display: grid;
 
 }
+
 .flex-container{
     display: flex;
     justify-content: center;
@@ -38,6 +39,7 @@
     border-radius: 5%;
 
 }
+
 P{
     font-size: large;
     margin: auto;
